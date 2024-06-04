@@ -1,0 +1,18 @@
+export default {
+    primary: "#1d454d",
+    secondary: "#d2c3f8",
+    accent: "#FF5733",
+    green: "#62d384",
+    lightskin: "#faf3eb",
+    lightgreen: "#ebfbef",
+    grey: "#D4D4D4",
+    black: "#000",
+    white: "#fff",
+    medium: "#6e6969",
+    light: "#f8f4f4",
+    dark: "#0c0c0c",
+    danger: "#ff5252",
+    gradient3: ["#3AE4C6", "#DE86E7", "#FBBA5F"],
+    gradient2: ["#3AE4C6", "#3ADCE4"],
+    gradient1: ["#3AE4C6"],
+};
